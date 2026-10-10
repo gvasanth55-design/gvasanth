@@ -40,3 +40,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvasanth55-design&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+## 📈 My Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gvasanth55-design&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
