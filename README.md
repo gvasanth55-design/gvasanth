@@ -26,3 +26,8 @@
 
 - GitHub: [gvasanth55-design](https://github.com/gvasanth55-design)
 -
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gvasanth55-design&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
+</p>
