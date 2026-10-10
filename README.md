@@ -55,3 +55,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+<h2 align="center">💻 Welcome to My Digital World</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=VASANTH&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Vasanth developer banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vasanth;Aspiring+Software+Developer;Learning+%26+Building+Every+Day" alt="Typing introduction" />
+</p>
